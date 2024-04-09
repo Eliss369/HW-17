@@ -181,11 +181,7 @@ body {
   margin-right: 30px;
 }
 .team-list-item {
-  box-shadow: 0px 3px 2px 1px #00000033;
-
-  /* box-shadow: 0px 1px 1px 0px #00000024;
-
-  box-shadow: 0px 1px 3px 0px #0000001f; */
+  box-shadow: 0px 3px 4px 1px #00000033;
 }
 .team-into {
   background-color: rgb(255, 255, 255);
@@ -310,7 +306,7 @@ body {
 }
 .portfolio-list-item:hover,
 .portfolio-list-item:focus {
-  box-shadow: 1px 3px 2px 1px #00000033;
+  box-shadow: 2px 3px 4px 1px #00000033;
 }
 .portfolio-pic {
   height: 294px;
