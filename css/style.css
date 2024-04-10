@@ -345,6 +345,7 @@ body {
 .portfolio-button:focus {
   background-color: var(--blue-color);
   color: var(--white-color);
+  box-shadow: 0px 3px 2px 0px #0000001f;
 }
 .portfolio {
   margin-bottom: 94px;
